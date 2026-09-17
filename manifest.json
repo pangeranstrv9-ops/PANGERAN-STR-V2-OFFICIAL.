@@ -1,0 +1,12 @@
+{
+  "name":"PANGERAN STR V2 OFFICIAL",
+  "short_name":"PANGERAN STR",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#030814",
+  "theme_color":"#07152f",
+  "description":"Jasa Post Akun, Jaslog & Jasweb",
+  "icons":[
+    {"src":"assets/pangeran-reference.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
